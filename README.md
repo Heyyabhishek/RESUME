@@ -7,8 +7,8 @@
 
 ## 🎓 Education
 
-**B.Tech in Computer Science and Engineering**  
-Vellore Institute of Technology, Bhopal (CGPA: 7.87)  
+**B.Tech in Computer Science and Engineering** 
+Vellore Institute of Technology, Bhopal (CGPA: 8.00)  
 Jawahar Navodaya Vidyalaya, Bihiya  
 Grade 10: 77% | Grade 12: 70.6%
 
