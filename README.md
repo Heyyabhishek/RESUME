@@ -1,70 +1,57 @@
-# Abhishek Kumar – Resume
+# 👋 Hi, I'm Abhishek Kumar  
 
-📄 **Latest Resume (PDF)**: [ABHISHEK_CV.pdf](./ABHISHEK_CV.pdf)  
-📧 **Contact**: rajabhishek5r@gmail.com | [GitHub](https://github.com/Heyyabhishek)
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering** 
-Vellore Institute of Technology, Bhopal (CGPA: 8.00)  
-Jawahar Navodaya Vidyalaya, Bihiya  
-Grade 10: 77% | Grade 12: 70.6%
+🎓 B.Tech. Computer Science & Engineering | VIT Bhopal (2026)  
+💻 Passionate about Full-Stack Development, AI, and Scalable Applications  
 
 ---
 
-## 💼 Work & Leadership Experience
+## 🚀 Skills  
 
-**Campus Ambassador – Kreo**  
-Promoted brand presence through student outreach and led campaign execution with a team.
-
-**Core Member – Photography Club**  
-Covered major college events and concerts; collaborated on ad shoots and short films.
+- **Languages:** Java, JavaScript, SQL  
+- **Web Technologies:** MongoDB, React, Node.js, HTML, CSS  
+- **Tools:** GitHub, VS Code, IntelliJ IDEA  
 
 ---
 
-## 🧠 Projects
+## 📂 Projects  
 
-**Mushroom-AI (Functional ChatBot)**  
-- Integrated real-time search, TTS/STT, image generation, and APIs like Cohere, Groq, and HuggingFace.  
-- Automated user interaction workflows and implemented secure API management.
+### 🔹 [SnapSphere](https://github.com/Heyyabhishek) | *Node.js, Express, MongoDB, JWT, REST APIs*  
+- Built a full-stack booking platform connecting clients with photographers & creators with **role-based access (client, creator, admin)**.  
+- Designed **secure REST APIs** with JWT authentication and middleware role management.  
+- Developed **MongoDB schemas** for users, bookings, and portfolios.  
 
-**Nom Nom Now – Zomato Clone**  
-- Built with React; included user auth, payment gateway integration, and API-based restaurant search.
+### 🔹 Mushroom | *Python, Cohere API, Groq API, Hugging Face, TTS/STT*  
+- Created an **AI-powered chatbot** with real-time search, image generation, and speech interaction.  
+- Implemented multimodal AI using Hugging Face & Groq.  
+- Enhanced accessibility with **TTS/STT voice features**.  
 
----
-
-## 🛠 Skills
-
-**Languages**: Python, Java, HTML, CSS  
-**Core Skills**: DSA, Git/GitHub, Problem Solving  
-**Tools**: VS Code, MATLAB, Excel
-
----
-
-## 📜 Certifications & Courses
-
-- Cloud Computing (Elite) – NPTEL  
-- Marketing Analytics – NPTEL  
-- Foundations of AI – Coursera  
-- DSA – Ethanus  
-- Python Essentials – VITyarthi  
-- MATLAB and Simulink – MATLAB  
-- Ericsson Edge Academia Program – *Top 500 Selected Candidates*
+### 🔹 Nom Nom Now – Zomato Clone | *React, REST APIs, User Auth*  
+- Built a **responsive food-ordering UI** with React.  
+- Integrated **third-party APIs** for restaurants & payments.  
+- Secured platform with **user authentication & authorization**.  
 
 ---
 
-## ⬇️ How to Download
+## 🏆 Achievements  
 
-- Click on [`ABHISHEK_CV.pdf`](./ABHISHEK_CV.pdf) above.
-- Select “Download” or “View Raw” to view it online.
+- Selected for **Ericsson Edge Academia Program** – Top 500 students across India.  
+- Runner-up in a **national-level Street Photography Competition (Holi theme)**.  
 
 ---
 
-## 🔗 Connect with Me
+## 🎭 Extra-Curricular  
 
-- **Email**: [rajabhishek5r@gmail.com](mailto:rajabhishek5r@gmail.com)  
-- **GitHub**: [Heyyabhishek](https://github.com/Heyyabhishek)  
-- **LinkedIn**: www.linkedin.com/in/abhishek-kumar-b43862331
+- **Campus Ambassador – Kreo**: Promoted gaming & tech products, created digital campaigns.  
+- **Media & Photography Team – VIT Bhopal**: Covered college events, collaborated with a film director for college advertisement shoot.  
+- **Regional Badminton Player (2019–2021)**: Represented JNV at regional tournaments.  
 
+---
+
+## 🌐 Connect With Me  
+
+- GitHub: [Heyyabhishek](https://github.com/Heyyabhishek)  
+- LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-b43862331)  
+- Email: [rajabhishek5r@gmail.com](mailto:rajabhishek5r@gmail.com)  
+
+---
+✨ Always learning, building, and creating meaningful tech solutions.
